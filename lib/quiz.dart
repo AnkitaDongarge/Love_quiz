@@ -104,7 +104,7 @@ class _QuizState extends State<Quiz> {
                   style: const TextStyle(fontSize: 15),
                 )),
           ] else ...[
-            Result(),
+
 
           ]
         ]),
